@@ -1,0 +1,15 @@
+/Users/xichao/Dev/school/classwork/FirstHalfTermTest/bin/Debug/net6.0/FirstHalfTermTest
+/Users/xichao/Dev/school/classwork/FirstHalfTermTest/bin/Debug/net6.0/FirstHalfTermTest.deps.json
+/Users/xichao/Dev/school/classwork/FirstHalfTermTest/bin/Debug/net6.0/FirstHalfTermTest.runtimeconfig.json
+/Users/xichao/Dev/school/classwork/FirstHalfTermTest/bin/Debug/net6.0/FirstHalfTermTest.dll
+/Users/xichao/Dev/school/classwork/FirstHalfTermTest/bin/Debug/net6.0/FirstHalfTermTest.pdb
+/Users/xichao/Dev/school/classwork/FirstHalfTermTest/obj/Debug/net6.0/FirstHalfTermTest.csproj.AssemblyReference.cache
+/Users/xichao/Dev/school/classwork/FirstHalfTermTest/obj/Debug/net6.0/FirstHalfTermTest.GeneratedMSBuildEditorConfig.editorconfig
+/Users/xichao/Dev/school/classwork/FirstHalfTermTest/obj/Debug/net6.0/FirstHalfTermTest.AssemblyInfoInputs.cache
+/Users/xichao/Dev/school/classwork/FirstHalfTermTest/obj/Debug/net6.0/FirstHalfTermTest.AssemblyInfo.cs
+/Users/xichao/Dev/school/classwork/FirstHalfTermTest/obj/Debug/net6.0/FirstHalfTermTest.csproj.CoreCompileInputs.cache
+/Users/xichao/Dev/school/classwork/FirstHalfTermTest/obj/Debug/net6.0/FirstHalfTermTest.dll
+/Users/xichao/Dev/school/classwork/FirstHalfTermTest/obj/Debug/net6.0/refint/FirstHalfTermTest.dll
+/Users/xichao/Dev/school/classwork/FirstHalfTermTest/obj/Debug/net6.0/FirstHalfTermTest.pdb
+/Users/xichao/Dev/school/classwork/FirstHalfTermTest/obj/Debug/net6.0/FirstHalfTermTest.genruntimeconfig.cache
+/Users/xichao/Dev/school/classwork/FirstHalfTermTest/obj/Debug/net6.0/ref/FirstHalfTermTest.dll
